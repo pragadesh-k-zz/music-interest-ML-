@@ -12,7 +12,7 @@ MACHINE LEARNING:
 
 The Machine Always try to learn to give expected answer...The more input the more learning the more learning more accurate answers.
 
-)Import the data.
+1)Import the data.
 
 2)Clean the data.
 
